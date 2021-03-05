@@ -1,0 +1,8 @@
+.Pagination button {
+  cursor: pointer;
+}
+
+.Pagination .active {
+  background-color: red;
+  color: white;
+}

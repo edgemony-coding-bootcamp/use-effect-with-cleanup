@@ -1,0 +1,10 @@
+.Passengers {
+  margin-top: 50px;
+}
+.Passengers.loading {
+  opacity: 0.5;
+}
+
+.Passengers td {
+  border: 1px solid;
+}
